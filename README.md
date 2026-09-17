@@ -50,7 +50,7 @@ IP Address        MAC Address
 
 ---
 
-## 📌 Project Description (For Resume)
+## 📌 Project Description 
 
 Developed a Python-based network scanner using ARP protocol to identify active devices in a local network. Implemented IP range scanning and MAC address detection using Scapy.
 
